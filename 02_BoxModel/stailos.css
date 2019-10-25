@@ -1,0 +1,71 @@
+/*selector global css para probar que funciona*/
+*{ 
+background-color: yellowgreen;
+}
+div{
+border: solid 2px red; 
+
+}
+
+header{border: solid 2px black}
+nav{border: solid 2px yellow}
+a{border: solid 2px violet }
+h1{text-align: center;
+font-size: 50px;
+color: fuchsia;
+}
+
+
+
+.parrafouno{
+    font-size: 20px;
+margin: 30px;
+padding: 30px;}
+
+.parrafodos{font-size: 50px;
+margin: 50px;
+padding: 50px;}
+
+
+
+
+.portadagatos{
+    
+    width: 1000px;
+    height: 1000px;
+
+}
+.botones{
+    border solid 1px;
+    padding-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cascade stairs sheet
+selectores 
+clases
+etiquetas
+ID  
+
+

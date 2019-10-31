@@ -1,0 +1,15 @@
+{
+" persona" = {
+    "nombre": "Rafael",
+    direccion : "obrera",
+    telefono : " 4206971000    ",
+    email: "rafa.4000@gmail.com",
+    edad: "30",
+    trabajo : ["dev.f","developer","e"]
+    
+   musica:{
+        perreo:"la gata",
+        metal:"toxicity",
+        reggae:"jammin",
+    }
+ }

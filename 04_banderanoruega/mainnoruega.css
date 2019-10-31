@@ -1,0 +1,84 @@
+body{
+
+    display: flex;
+}
+.izq{
+    background-color: blue;
+    width:300px ;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between ;
+    }
+.blanco1{ 
+    background-color: white;
+    width: 95%;
+    height: 300px;
+    display: flex;
+    align-items:flex-start;
+    flex-direction: column;
+    justify-content: space-between 
+}
+.blanco2{ 
+    background-color: white;
+    width: 95%;
+    height: 300px;
+    display: flex;
+    align-items:flex-start;
+    flex-direction: column;
+    justify-content: flex-end 
+}
+.rojosizq
+{
+    background-color:red;
+    width: 95%;
+    height: 95%;
+    display: flex;
+}
+.der
+{
+    background-color: blue;
+    width: 700px ;
+    height: 700px;
+    display: flex; 
+    flex-direction: column;
+    align-items: flex-end;;
+    justify-content: space-between;
+ }   
+.blanco3{
+    background-color: white;
+    width: 95%;
+    height: 300px;
+    display: flex;
+    align-items: flex-start;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+   
+}
+.blanco4{
+    background-color: white;
+    width: 95%;
+    height: 300px;
+    display: flex;
+    align-items: flex-end;;
+    justify-content:space-between;
+    flex-direction: row-reverse;
+}
+.rojosder
+{
+    background-color: red;
+    width: 95%;
+    height: 95%;
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    flex-direction:flex-end;
+
+}
+
+
+align-items:   flex-start
+align-items:   flex-end
+align-items:   baseline
+
+justify-content: space-between

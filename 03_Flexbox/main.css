@@ -1,0 +1,43 @@
+
+.padre
+{
+    margin:
+    border: red solid 2px;
+    height: 40%;
+    width: 40%;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column
+}    
+.madre
+{     
+    nietos2
+    margin:10%;
+    border: blue solid 2px;
+    height: 40%;
+    width: 40%;
+    justify-content: right;
+    display: flex;
+    flex-direction: column
+}
+.hijos
+{
+margin:10%;
+border: blue solid 2px;
+height: 30%;
+width: 30%;
+justify-content: right;
+display: flex
+
+}
+.hijas{
+margin:10%;
+border: blue solid 2px;
+height: 30%;
+width: 30%;
+flex-direction: column
+display: flex
+
+}
+
+

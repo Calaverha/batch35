@@ -1,0 +1,82 @@
+.body{
+   display: flex;
+   align-items: center;
+   justify-content: space-around
+}.father{
+
+   background-color: goldenrod;
+   border: solid blue ; 
+   width: 2000px;
+   height: 2000px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.mother{
+ background-color: goldenrod;
+
+   border: solid blue ; 
+   width: 2000px;
+   height: 2000px;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: space-around
+}
+
+.hijos{
+ background-color: aqua;
+   border: solid blue ;
+   width: 200px;
+   height: 200px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around 
+
+ }
+.hijo{
+    background-color: aqua;
+   border: solid blue ;   
+   width: 200px;
+   height: 200px;
+   flex-direction: column;
+   display: flex;
+   align-items:center;
+   justify-content: space-around
+ }
+.hija{
+   background-color: darkcyan;
+   border: solid blue ;   
+   width: 200px;
+   height: 200px;
+   align-items:;
+   display: flex;
+   align-items:center;
+   flex-direction: column;
+   justify-content: space-around
+}
+.hijas{
+   background-color: darkcyan;
+   border: solid blue ;   
+   width: 200px;
+   height: 200px;
+   display: flex;
+
+
+   align-items: center;
+   
+   justify-content:space-around
+}
+.nietos{
+   background-color: red;
+   border: solid blue ;
+   width: 20px;
+   height: 20px;
+}
+.nietas{
+   background-color: brown;
+   border: solid blue ;
+   width: 20px;
+   height: 20px;
+}
+
